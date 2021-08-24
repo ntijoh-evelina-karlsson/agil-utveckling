@@ -21,11 +21,9 @@ Det finns troligen lika många olika varianter på agila arbetsmetoder som det f
 
 ## Kanban
 
-Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards.
+Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards. Se denna förklaring av att arbeta iterativt: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om det är Kanban gäller alla koncepten för Scrum (och övriga agila metoder.)
 
 ![Kanban board](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/kanban-board-wikipedia.jpg)
-
-Se: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om det är Kanban gäller alla koncepten för Scrum (och övriga agila metoder.)
 
 ## Scrum
 
