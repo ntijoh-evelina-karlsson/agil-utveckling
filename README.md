@@ -14,6 +14,8 @@ Ett av de absolut största problemet med att använda en såpass tung eller stel
 
 I alla agila metoder vänder man på steken och försöker hela tiden utveckla och leverera nästa fungerande produkt så fort som möjligt. Då behöver man arbeta i korta itterationer där fokus är att bryta ner varje större uppgift till lagom stora steg att visa kunden (som kan vara mer närvarande i alla stegen). I varje steg går det då att känna på produkten och försöka försäkra sig om att man är på väg åt rätt håll. 
 
+![Kanban board](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/agil-spiral.png)
+
 Längden på en utvecklingsiteration beror på men ofta från några dagar till några veckor. Det finns troligen lika många olika varianter på agila arbetsmetoder som det finns projekt eller företag. Lär er koncepten.
 
 ### The Manifesto for Agile Software Development (2001)
