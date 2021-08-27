@@ -2,7 +2,7 @@
 
 Att arbeta agilt eller iterativt är mest bara sunt förnuft eller en (bättre) arbetskultur.
 
-Klassiskt har metoder för mjukvaruutveckling kommit från utveckling i av andra (fysiska) produkter som t.ex. att bygga en bil eller en bro. En bil designas för att sedan byggas exakt likadana kopior av. Mjukvara behöver oftast inte dupliceras på de sättet utan kan eller behöver istället fortsätta utvecklas under hela livscykeln. Skillnaden mellan mjukvara och hårdvara är stor.
+Klassiskt har metoder för (mjukvaru)utveckling kommit från utveckling i av andra (fysiska) produkter som t.ex. att bygga en bil eller en bro. En bil designas för att sedan byggas exakt likadana kopior av. Mjukvara behöver oftast inte dupliceras på de sättet utan kan eller behöver istället fortsätta utvecklas under hela livscykeln. Skillnaden mellan mjukvara och hårdvara är stor.
 
 En klassisk utvecklingsmetod är Vattenfallsmetoden. En av grundidéerna är att minimera sena ändringar eftersom det kan kosta väldigt mycket pengar att tex. förändra en hel fabrik sent i processen. Fokus är att bli klar med varje fas innan nästa påbörjas. Utvecklingen sker sekvensielt i ungefär dessa steg:
 
@@ -16,7 +16,7 @@ I alla agila metoder vänder man på steken och försöker hela tiden utveckla o
 
 Längden på en utvecklingsiteration beror på men ofta från några dagar till några veckor. Det finns troligen lika många olika varianter på agila arbetsmetoder som det finns projekt eller företag. Lär er koncepten.
 
-![Agila spiralen](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/agil-spiral.png)
+![Agila spiralen](img/agil-spiral.png)
 
 Läs: 
  * https://en.wikipedia.org/wiki/Agile_software_development 
@@ -24,47 +24,66 @@ Läs:
 
 ## Kanban
 
-Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards. Se denna förklaring av att arbeta iterativt: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om han pratar om Kanban i videon gäller koncepten. Videon är vald för att det var en tydlig och enkel beskrivning av att arbeta med post-it-lappar.
+Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards. Se denna förklaring av att arbeta iterativt: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om han pratar om Kanban i videon gäller koncepten. Videon är vald för att den tydligt och enkelt visar hur todos kan hanteras med post-it-lappar.
 
-![Kanban board](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/kanban-board-wikipedia.jpg)
+![Kanban board](img/kanban-board-wikipedia.jpg)
+
+Scrums (nedan) motsvarighet till *Kanban-tavlan* heter *Sprint backlog*.
+
+**Todo:** Vore bättre om jag hittade en lika bra video där de utgick från Scrum. Ofta är beskrivningarna mer komplexa.
 
 ## Scrum
 
-Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt.
+Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt. Den bestämmer i större detalj hur arbetet går till.
 
-Todo: leta upp exempel (videos?) och uppgifter på Scrum.
+### Roller i Scrum
+**Product owner** är personen som i första hand ansvarar för att ta fram de övergripande förändringar som ska göras i en produkt. Om andra personer (som tex. en utvecklare) vill göra en förändring sker det oftast i samtal med PO.
 
-![Scrum](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/scrum.png)
+**Scrum master** är personen som hjälper utvecklingsteamet att arbeta så effektivt som möjligt. Ofta, men inte allid, är SM del av utvecklingsteamet.
+
+**Scrum team** är personerna som arbetar med att utveckla produkten. Ofta en grupp om 5-9 personer.
+
+### Arbetsgången i Scrum (något förenklad)
+
+
+
+![Scrum](img/scrum.png)
 
 Läs: 
  * https://en.wikipedia.org/wiki/Scrum_(software_development) 
  * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf 
 
-## U Scrum
-
- * Sprint
- * Product backlog -> sprint backlog
- * Product owner
- * Scrum team
- * Scrum master
-
-
----
-
 # Uppgifter Agila metoder
 
-* Förklara vad en *user story* är och varför de används.
-* Skriva user stories från samtal med användare. 
+Vi utgår från terminologin främst från Scrum. Förklara följande med dina egna ord.
 
-* Vad är en *product backlog*?
+* Vad är en *sprint*?
 
-* Använda verktyget *planning poker* för att göra en tidsuppskattning. 
+* Förklara de olika rollerna i Scrum: *Product owner*, *Scrum master* och *Scrum team*
+
+* Vad är en *product backlog item* och till vad / varför änvänds de?
+
+* Vad är en *product backlog* och vad är en *sprint backlog*?
+
+
+
+
+* Förklara med egna ord vad som menas med att arbeta *agilt*.
+
+
+
+* Vad menas med *minimum viable product* (eller *minimum viable feature*) 
+
+* Förklara *definition of done*
+
+
+ Mål:
+
+ * Använda verktyget *planning poker* för att göra en tidsuppskattning. 
 * Förklara *velocity* och *points*
 
 * Börja ta steg mot att bryta ner för stora uppgifter till mindre och hanterbara delar.
 
-* Förklara med egna ord vad som menas med att arbeta *agilt*.
-* Vad är och varför använder vi en *Kanban-tavla*?
-* De ska kunna använda en *Kanban-tavla* för att samarbeta med planering i projektgruppen.
+ * Skriva product backlog items från samtal med användare. 
 
-* Vad menas med *minimum viable product* (eller *minimum viable feature*) och *definition of done*?
+ * De ska kunna använda en *Kanban-tavla* för att samarbeta med planering i projektgruppen.
