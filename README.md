@@ -76,6 +76,7 @@ Förklara följande med dina egna ord. Skriv ner det i ett dokument. Nästa gån
 * Förklara med egna ord vad som menas med att arbeta *agilt*. Reflektera och diskutera kring varför jag säger att det är en kultur snarare än metod att arbeta (eller vara) agilt?
 * Diskutera för och nackledar med Scrum jämfört med Kanban. För ert team men också från eventuella tidigare erfarenheter av arbete eller hur ni tänker er att arbetet på ett företag med minst ett scrum team kan gå till.
 * Beskriv, efter det ni lärt er om agila metoder, hur ni skulle vilja lägga upp arbetet för ert nästa projekt.
+* Har ni några tankar om vattenfallsmetoden?
 
 # Mål för nästa projekt
  * Börja förstå vad det innebär att arbeta agilt.
