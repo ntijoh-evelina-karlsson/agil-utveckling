@@ -38,6 +38,7 @@ Todo: leta upp exempel (videos?) och uppgifter på Scrum.
 
 Läs: 
  * https://en.wikipedia.org/wiki/Scrum_(software_development) 
+ * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf 
 
 ## U Scrum
 
