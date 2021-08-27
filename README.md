@@ -72,10 +72,7 @@ Vi utgår från terminologin främst från Scrum. Förklara följande med dina e
 * Vad är en *Product backlog* och vad är en *Sprint backlog*?
 * Vad menas med *Minimum Viable Product* (eller *Minimum Viable Feature*)?
 * Vad menas med *Definition of Done*?
-
-
-* Förklara med egna ord vad som menas med att arbeta *agilt*.
-* Varför tror ni jag säger att det är en kultur snarare än metod att arbeta eller vara agil?
+* Förklara med egna ord vad som menas med att arbeta *agilt*. Reflektera och diskutera kring varför jag säger att det är en kultur snarare än metod att arbeta (eller vara) agilt?
 
 # Mål för nästa projekt:
  * Börja förstå vad det innebär att arbeta agilt
