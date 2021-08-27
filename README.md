@@ -37,17 +37,23 @@ Scrums (nedan) motsvarighet till *Kanban-tavlan* heter *Sprint backlog*.
 Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt. Den bestämmer i större detalj hur arbetet går till.
 
 ### Roller i Scrum
-**Product owner (PO)** är personen som i första hand ansvarar för att ta fram de övergripande förändringar som ska göras i en produkt. Om andra personer (som tex. en utvecklare) vill göra en förändring sker det oftast i samtal med PO. Hen representerar kunderna.
+**Product owner (PO)** är personen som i första hand ansvarar för att ta fram och prioritera de övergripande förändringar som ska göras i en produkt. Om andra personer (som tex. en utvecklare) vill göra en förändring sker det oftast i samtal med PO. Hen representerar kunderna.
 
 **Scrum master (SM)** är personen som hjälper utvecklingsteamet att arbeta så effektivt som möjligt. Ofta, men inte allid, är SM del av utvecklingsteamet.
 
 **Scrum team** är personerna som arbetar med att utveckla produkten. Ofta en grupp om 5-9 personer.
 
-### Arbetsgången i Scrum (något förenklad)
+### Arbetsgången i Scrum (förenklad)
 
-Arbetet sker i *Sprints* vilka är ungefär 2v arbetstid.
+Arbetet sker i *Sprints* vilka är ungefär 2v långa (varierar beroende på projektstorlek). Det första som händer när en sprint startar är att *PO* tillsammans med utvecklarna och *SM* kommer överens om vad som ska göras under nästa sprint. De väljer ut lagom många *Product backlog items* från en *Product backlog* och lägger in på sin *Sprint backlog*. En grov estimering av varje *item* görs när den läggs till *Sprint backlog*. *PO* ansvarar för att hålla uppdaterad och prioritera *Product backlog* med alla de förändringar som behöver göras i produkten.
 
-*PO* ansvarar för att hålla och prioritera en lista kallad *Product backlog* med de förändringar som behöver göras i produkten.
+En *Sprint backlog* liknar ofta en *Kanban-board* och kan gärna göras med post-it-lappar som flyttas i kolumner från vänster till höger.
+
+Efter prioriteringarna kan utvecklarna börja arbeta och meningen är att de under sprinten ska få ganska lugn och ro. Är det ändringar eller omprioriteringar som behöver göras ansvarar *SM* för samtalet med *PO* eller om det är andra saker som behöver fixas.
+
+Arbetet varje dag börjar med ett kort möte (ca 10 min) kallat *Daily scrum* eller *Standup meeting* där alla utvecklare en i taget kan ställa frågor eller uppdatera statusen på sitt arbete och om det finns något nytt problem som dykt upp hanteras det här.
+
+När sprinten är slut har utvecklare, *SM* och *PO* ett möte med en demo och utvärdering (*retrospective*) av arbetet i sprinten. En unik sak med Scrum är att här utvärderas även hur många *items* utvecklarna hann med under sprinten. Finns det *items* kvar betyder det att gruppen tagit på sig för mycket arbete för sprinten och mängden arbete utvecklarna kan ta på sig justeras ner till nästa sprint. Detta kallas i Scrum för *Velocity* men mer om det senare.
 
 ![Scrum](img/scrum.png)
 
