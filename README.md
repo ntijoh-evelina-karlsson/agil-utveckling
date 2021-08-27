@@ -60,8 +60,8 @@ När sprinten är slut har utvecklare, *SM* och *PO* ett möte med en demo och u
 TBD
 
 Läs: 
+ * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf (oväntat bra, enkel och grundläggande beskrivning :))
  * https://en.wikipedia.org/wiki/Scrum_(software_development) 
- * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf 
 
 # Uppgifter Agila metoder
 
