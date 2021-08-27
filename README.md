@@ -28,6 +28,8 @@ Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. 
 
 ![Kanban board](img/kanban-board-wikipedia.jpg)
 
+Läs: https://en.wikipedia.org/wiki/Kanban_(development) 
+
 ## Scrum
 
 Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt. Den bestämmer i större detalj hur arbetet går till.
@@ -63,7 +65,7 @@ Läs:
 
 # Uppgifter Agila metoder
 
-Vi utgår från terminologin främst från Scrum. Förklara följande med dina egna ord.
+Förklara följande med dina egna ord. Skriv ner det i ett dokument. Nästa gång vi ses går vi igenom dem uppifrån och ner. Varje grupp kommer vara delaktig i diskussionen. Träna på att hitta kärnan i era argument - dvs. försök hålla det kort och exakt.
 
 * Vad är en *Sprint*?
 * Förklara de olika rollerna i Scrum: *Product owner*, *Scrum master* och *Scrum team*
@@ -72,6 +74,8 @@ Vi utgår från terminologin främst från Scrum. Förklara följande med dina e
 * Vad menas med *Minimum Viable Product* (eller *Minimum Viable Feature*)?
 * Vad menas med *Definition of Done*?
 * Förklara med egna ord vad som menas med att arbeta *agilt*. Reflektera och diskutera kring varför jag säger att det är en kultur snarare än metod att arbeta (eller vara) agilt?
+* Diskutera för och nackledar med Scrum jämfört med Kanban. För ert team men också från eventuella tidigare erfarenheter av arbete eller hur ni tänker er att arbetet på ett företag med minst ett scrum team kan gå till.
+* Beskriv, efter det ni lärt er om agila metoder, hur ni skulle vilja lägga upp arbetet för ert nästa projekt.
 
 # Mål för nästa projekt
  * Börja förstå vad det innebär att arbeta agilt.
