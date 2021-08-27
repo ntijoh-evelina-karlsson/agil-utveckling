@@ -54,6 +54,7 @@ När sprinten är slut har utvecklare, *SM* och *PO* ett möte med en demo och u
 ![Scrum](img/scrum.png)
 
 ### Velocity, poäng, planning poker, definition of done
+
 TBD
 
 Läs: 
@@ -72,8 +73,8 @@ Vi utgår från terminologin främst från Scrum. Förklara följande med dina e
 * Vad menas med *Definition of Done*?
 * Förklara med egna ord vad som menas med att arbeta *agilt*. Reflektera och diskutera kring varför jag säger att det är en kultur snarare än metod att arbeta (eller vara) agilt?
 
-# Mål för nästa projekt:
- * Börja förstå vad det innebär att arbeta agilt
+# Mål för nästa projekt
+ * Börja förstå vad det innebär att arbeta agilt.
  * Skriva *product backlog items* från samtal med *PO* eller användare. 
  * Arbeta aktivt med någon form av *Sprint backlog board eller *Kanban-tavla* för att samarbeta med planering i projektgruppen.
  * Börja ta steg mot att identifiera och bryta ner för stora uppgifter till lagom stora och hanterbara delar.
