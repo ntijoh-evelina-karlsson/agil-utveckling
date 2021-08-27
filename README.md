@@ -24,11 +24,9 @@ Läs:
 
 ## Kanban
 
-Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards. Se denna förklaring av att arbeta iterativt: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om han pratar om Kanban i videon gäller koncepten. Videon är vald för att den tydligt och enkelt visar hur todos kan hanteras med post-it-lappar.
+Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards. Se denna förklaring av att arbeta iterativt: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om han pratar om Kanban i videon gäller koncepten. Videon är vald för att den tydligt och enkelt visar hur todos kan hanteras med post-it-lappar. Scrums (nedan) motsvarighet till *Kanban-tavlan* heter *Sprint backlog*.
 
 ![Kanban board](img/kanban-board-wikipedia.jpg)
-
-Scrums (nedan) motsvarighet till *Kanban-tavlan* heter *Sprint backlog*.
 
 ## Scrum
 
