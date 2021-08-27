@@ -30,9 +30,23 @@ Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. 
 
 ## Scrum
 
-Den vanligaste arbetsmetoden.
+Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt.
 
 Todo: leta upp exempel (videos?) och uppgifter på Scrum.
+
+![Scrum](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/scrum.png)
+
+Läs: 
+ * https://en.wikipedia.org/wiki/Scrum_(software_development) 
+
+## U Scrum
+
+ * Sprint
+ * Product backlog -> sprint backlog
+ * Product owner
+ * Scrum team
+ * Scrum master
+
 
 ---
 
