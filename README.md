@@ -6,7 +6,7 @@ Klassiskt har metoder för mjukvaruutveckling kommit från utveckling i av andra
 
 En klassisk utvecklingsmetod är Vattenfallsmetoden. En av grundidéerna är att minimera sena ändringar eftersom det kan kosta väldigt mycket pengar att tex. förändra en hel fabrik sent i processen. Fokus är att bli klar med varje fas innan nästa påbörjas. Utvecklingen sker sekvensielt i ungefär dessa steg:
 
-![Vattenfallsmodellen](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/vattenfall.png)
+![Vattenfallsmodellen](img/vattenfall.png)
 
 Ett av de absolut största problemet med att använda en såpass tung eller stelbent process för att bygga mjukvara är att steget från krav färdig produkt blir långt. Ofta vet varken team eller kund vad de vill ha förrän efter produkten är färdig och då är det oftast tungt och dyrt att att ändra.
 
