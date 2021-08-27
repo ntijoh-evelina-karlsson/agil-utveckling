@@ -30,8 +30,6 @@ Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. 
 
 Scrums (nedan) motsvarighet till *Kanban-tavlan* heter *Sprint backlog*.
 
-**Todo:** Vore bättre om jag hittade en lika bra video där de utgick från Scrum. Ofta är beskrivningarna mer komplexa.
-
 ## Scrum
 
 Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt. Den bestämmer i större detalj hur arbetet går till.
@@ -57,6 +55,9 @@ När sprinten är slut har utvecklare, *SM* och *PO* ett möte med en demo och u
 
 ![Scrum](img/scrum.png)
 
+### Velocity, poäng, planning poker, definition of done
+TBD
+
 Läs: 
  * https://en.wikipedia.org/wiki/Scrum_(software_development) 
  * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf 
@@ -65,33 +66,19 @@ Läs:
 
 Vi utgår från terminologin främst från Scrum. Förklara följande med dina egna ord.
 
-* Vad är en *sprint*?
-
+* Vad är en *Sprint*?
 * Förklara de olika rollerna i Scrum: *Product owner*, *Scrum master* och *Scrum team*
-
-* Vad är en *product backlog item* och till vad / varför änvänds de?
-
-* Vad är en *product backlog* och vad är en *sprint backlog*?
-
-
+* Vad är en *Product backlog item* och till vad / varför änvänds de?
+* Vad är en *Product backlog* och vad är en *Sprint backlog*?
+* Vad menas med *Minimum Viable Product* (eller *Minimum Viable Feature*)?
+* Vad menas med *Definition of Done*?
 
 
 * Förklara med egna ord vad som menas med att arbeta *agilt*.
+* Varför tror ni jag säger att det är en kultur snarare än metod att arbeta eller vara agil?
 
-
-
-* Vad menas med *minimum viable product* (eller *minimum viable feature*) 
-
-* Förklara *definition of done*
-
-
- Mål:
-
- * Använda verktyget *planning poker* för att göra en tidsuppskattning. 
-* Förklara *velocity* och *points*
-
-* Börja ta steg mot att bryta ner för stora uppgifter till mindre och hanterbara delar.
-
- * Skriva product backlog items från samtal med användare. 
-
- * De ska kunna använda en *Kanban-tavla* för att samarbeta med planering i projektgruppen.
+# Mål för nästa projekt:
+ * Börja förstå vad det innebär att arbeta agilt
+ * Skriva *product backlog items* från samtal med *PO* eller användare. 
+ * Arbeta aktivt med någon form av *Sprint backlog board eller *Kanban-tavla* för att samarbeta med planering i projektgruppen.
+ * Börja ta steg mot att identifiera och bryta ner för stora uppgifter till lagom stora och hanterbara delar.
