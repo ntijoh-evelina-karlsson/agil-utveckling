@@ -6,7 +6,7 @@ Klassiskt har metoder för mjukvaruutveckling kommit från utveckling i av andra
 
 En klassisk utvecklingsmetod är Vattenfallsmetoden. En av grundidéerna är att minimera sena ändringar eftersom det kan kosta väldigt mycket pengar att tex. förändra en hel fabrik sent i processen. Fokus är att bli klar med varje fas innan nästa påbörjas. Utvecklingen sker sekvensielt i ungefär dessa steg:
 
-`Krav -> Design -> Konstruktion -> Integration -> Test -> Installation -> Underhåll`
+![Vattenfallsmodellen](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/vattenfall.png)
 
 Ett av de absolut största problemet med att använda en såpass tung eller stelbent process för att bygga mjukvara är att steget från krav färdig produkt blir långt. Ofta vet varken team eller kund vad de vill ha förrän efter produkten är färdig och då är det oftast tungt och dyrt att att ändra.
 
@@ -14,16 +14,17 @@ Ett av de absolut största problemet med att använda en såpass tung eller stel
 
 I alla agila metoder vänder man på steken och försöker hela tiden utveckla och leverera nästa fungerande produkt så fort som möjligt. Då behöver man arbeta i korta itterationer där fokus är att bryta ner varje större uppgift till lagom stora steg att visa kunden (som kan vara mer närvarande i alla stegen). I varje steg går det då att känna på produkten och försöka försäkra sig om att man är på väg åt rätt håll. 
 
-![Kanban board](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/agil-spiral.png)
-
 Längden på en utvecklingsiteration beror på men ofta från några dagar till några veckor. Det finns troligen lika många olika varianter på agila arbetsmetoder som det finns projekt eller företag. Lär er koncepten.
 
-### The Manifesto for Agile Software Development (2001)
-2001 var bland annat Robert C. Martin (Uncle Bob) som vi nämnt tidigare med och skapade dessa agila metoder. Se: https://agilemanifesto.org/ (eller Wikipedia).
+![Agila spiralen](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/agil-spiral.png)
+
+Läs: 
+ * https://en.wikipedia.org/wiki/Agile_software_development 
+ * https://en.wikipedia.org/wiki/Waterfall_model
 
 ## Kanban
 
-Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards. Se denna förklaring av att arbeta iterativt: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om det är Kanban gäller alla koncepten för Scrum (och övriga agila metoder.)
+Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. Kanban-boarden kommer härifrån likaså Cards. Se denna förklaring av att arbeta iterativt: https://www.youtube.com/watch?v=iVaFVa7HYj4 Även om han pratar om Kanban i videon gäller koncepten. Videon är vald för att det var en tydlig och enkel beskrivning av att arbeta med post-it-lappar.
 
 ![Kanban board](https://github.com/ntijoh-te4/agil-utveckling/blob/main/img/kanban-board-wikipedia.jpg)
 
