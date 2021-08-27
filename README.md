@@ -37,15 +37,17 @@ Scrums (nedan) motsvarighet till *Kanban-tavlan* heter *Sprint backlog*.
 Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt. Den bestämmer i större detalj hur arbetet går till.
 
 ### Roller i Scrum
-**Product owner** är personen som i första hand ansvarar för att ta fram de övergripande förändringar som ska göras i en produkt. Om andra personer (som tex. en utvecklare) vill göra en förändring sker det oftast i samtal med PO.
+**Product owner (PO)** är personen som i första hand ansvarar för att ta fram de övergripande förändringar som ska göras i en produkt. Om andra personer (som tex. en utvecklare) vill göra en förändring sker det oftast i samtal med PO. Hen representerar kunderna.
 
-**Scrum master** är personen som hjälper utvecklingsteamet att arbeta så effektivt som möjligt. Ofta, men inte allid, är SM del av utvecklingsteamet.
+**Scrum master (SM)** är personen som hjälper utvecklingsteamet att arbeta så effektivt som möjligt. Ofta, men inte allid, är SM del av utvecklingsteamet.
 
 **Scrum team** är personerna som arbetar med att utveckla produkten. Ofta en grupp om 5-9 personer.
 
 ### Arbetsgången i Scrum (något förenklad)
 
+Arbetet sker i *Sprints* vilka är ungefär 2v arbetstid.
 
+*PO* ansvarar för att hålla och prioritera en lista kallad *Product backlog* med de förändringar som behöver göras i produkten.
 
 ![Scrum](img/scrum.png)
 
