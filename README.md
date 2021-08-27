@@ -33,3 +33,23 @@ Kanban är en slags agil metod från Japan och blev känd från Toyota. Den sk. 
 Den vanligaste arbetsmetoden.
 
 Todo: leta upp exempel (videos?) och uppgifter på Scrum.
+
+---
+
+# Uppgifter Agila metoder
+
+* Förklara vad en *user story* är och varför de används.
+* Skriva user stories från samtal med användare. 
+
+* Vad är en *product backlog*?
+
+* Använda verktyget *planning poker* för att göra en tidsuppskattning. 
+* Förklara *velocity* och *points*
+
+* Börja ta steg mot att bryta ner för stora uppgifter till mindre och hanterbara delar.
+
+* Förklara med egna ord vad som menas med att arbeta *agilt*.
+* Vad är och varför använder vi en *Kanban-tavla*?
+* De ska kunna använda en *Kanban-tavla* för att samarbeta med planering i projektgruppen.
+
+* Vad menas med *minimum viable product* (eller *minimum viable feature*) och *definition of done*?
