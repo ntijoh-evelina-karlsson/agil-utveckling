@@ -37,7 +37,7 @@ Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt. Den best
 ### Roller i Scrum
 **Product owner (PO)** är personen som i första hand ansvarar för att ta fram och prioritera de övergripande förändringar som ska göras i en produkt. Om andra personer (som tex. en utvecklare) vill göra en förändring sker det oftast i samtal med PO. Hen representerar kunderna. Kan (lite humoristiskt) ses som en kombination av coach, fixare och dörrvakt.
 
-![Projekt Owner, Scrum](img/scrum-fo.png)
+![Projekt Owner, Scrum](img/scrum-po.png)
 
 **Scrum master (SM)** är personen som hjälper utvecklingsteamet att arbeta så effektivt som möjligt. Ofta, men inte allid, är SM del av utvecklingsteamet.
 
