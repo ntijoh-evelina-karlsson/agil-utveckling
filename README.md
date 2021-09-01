@@ -34,6 +34,10 @@ Läs: https://en.wikipedia.org/wiki/Kanban_(development)
 
 Scrum är en av de mest använda agila arbetsmetoden i mjukvaruprojekt. Den bestämmer i större detalj hur arbetet går till.
 
+Läs: 
+ * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf (oväntat bra, enkel och grundläggande beskrivning :))
+ * https://en.wikipedia.org/wiki/Scrum_(software_development)
+
 ### Roller i Scrum
 **Product owner (PO)** är personen som i första hand ansvarar för att ta fram och prioritera de övergripande förändringar som ska göras i en produkt. Om andra personer (som tex. en utvecklare) vill göra en förändring sker det oftast i samtal med PO. Hen representerar kunderna. Kan (lite humoristiskt) ses som en kombination av coach, fixare och dörrvakt.
 
@@ -65,11 +69,7 @@ Exakta kriterierna skiljer sig nog alltid mellan olika produkter och företag. D
 Om man tex arbetat på en sprint item och säger att den är klar kanske klar kan betyda att alla tester ska vara körda och fungera eller att förändringen måste godkännas av en kollega (sk. peer review / code review).
 
 ### Velocity, poäng, tidsuppskattning / planning poker
-TBD
-
-Läs: 
- * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf (oväntat bra, enkel och grundläggande beskrivning :))
- * https://en.wikipedia.org/wiki/Scrum_(software_development)
+TBD, till p2
 
 ## Code review / kodgranskning 
 
