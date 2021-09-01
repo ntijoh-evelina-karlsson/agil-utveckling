@@ -71,20 +71,49 @@ Läs:
  * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf (oväntat bra, enkel och grundläggande beskrivning :))
  * https://en.wikipedia.org/wiki/Scrum_(software_development) 
 
-# Uppgifter Agila metoder
+# Uppgifter 1 - Agila metoder
 
 Förklara följande med dina egna ord. Skriv ner det i ett dokument. Nästa gång vi ses går vi igenom dem uppifrån och ner. Varje grupp kommer vara delaktig i diskussionen. Träna på att hitta kärnan i era argument - dvs. försök hålla det kort och exakt.
 
 * Vad är en *Sprint*?
+
 * Förklara de olika rollerna i Scrum: *Product owner*, *Scrum master* och *Scrum team*
+
 * Vad är en *Product backlog item* och till vad / varför änvänds de?
+
 * Vad är en *Product backlog* och vad är en *Sprint backlog*?
+
 * Vad menas med *Minimum Viable Product* (eller *Minimum Viable Feature*)?
+
 * Vad menas med *Definition of Done*?
+
 * Förklara med egna ord vad som menas med att arbeta *agilt*. Reflektera och diskutera kring varför jag säger att det är en kultur snarare än metod att arbeta (eller vara) agilt?
+
 * Diskutera för och nackledar med Scrum jämfört med Kanban. För ert team men också från eventuella tidigare erfarenheter av arbete eller hur ni tänker er att arbetet på ett företag med minst ett scrum team kan gå till.
+
 * Beskriv, efter det ni lärt er om agila metoder, hur ni skulle vilja lägga upp arbetet för ert nästa projekt.
+
 * Har ni några tankar om vattenfallsmetoden?
+
+# Uppgifter 2 - Agila metoder
+
+Återgå och utveckla era svar i uppgifter 1 när ni gör uppgifter 2. Diskutera och reflektera.
+
+* Se en kort repetition: https://www.youtube.com/watch?v=1iccpf2eN1Q 
+
+* Varför behövs både en *Product Backlog* och *Sprint Backlog*?
+
+* Ibland kan man höra någon säga: "produktägaren lägger sig inte i under sprinten". De är inte nödvändigtvis 100% sant men ambitionen är sann. Varför tror ni det är så upplägget är?
+
+* Kan ni fundera ut några exempel på när en feature kan räknas som färdig (DoD)?
+
+* Om vi är överens om att vara agil handlar om att ha en flexibel arbetsprocess - vad betyder det i verkligheten? Hur påverkar det era projekt? Hur påverkar de ert tillvägagångssätt? Se: https://www.youtube.com/watch?v=J9UjD_cKpnc Han säger typ: *“Change our mindset from: A leads to be B leads to C leads to Done* to *A-B-C-learn-repeat."* Vad säger han egentligen i videon? Diskutera.
+
+* Skulle ni helst vilja arbeta mer som Scrum el. Kanban i nästa projekt? Motivera.
+
+* Hur skulle ert arbete se ut om vi skulle tvinga er att arbeta strikt enl. Vattenfallsmodellen i nästa projekt? Hur skulle arbetsdagarna, från start till slut, se ut? Vad tror ni skulle vara lättare / svårare i en sån modell? Förklara, reflektera och motivera.
+
+* Vilka nya kunskaper om agile har ni fått idag?
 
 # Mål för nästa projekt
  * Börja förstå vad det innebär att arbeta agilt.
