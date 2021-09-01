@@ -69,7 +69,25 @@ TBD
 
 Läs: 
  * http://extra.lansstyrelsen.se/tillsynsutvecklingivast/SiteCollectionDocuments/M%C3%A5nadens%20goda%20exempel/Scrum%20p%C3%A5%20fem%20minuter.pdf (oväntat bra, enkel och grundläggande beskrivning :))
- * https://en.wikipedia.org/wiki/Scrum_(software_development) 
+ * https://en.wikipedia.org/wiki/Scrum_(software_development)
+
+## Code review / kodgranskning 
+
+Kodgranskning är inte något obligatoriskt moment i Scrum eller någan annan Agile-metod. Det är snarare ett vanligt verktyg för att hitta fel.
+
+De finns många olika sätt att granska kod men förslagsvis måste alla kodändringar granskas av någon som inte jobbat med koden när varje *sprint item* flyttas från *doing* till *done*. 
+
+För att förtydliga arbetet föreslår vi att ni lägger till en kolumn på er *kanban-board* som ni döper till *review* eller *testing*. När en *item* är kodad hamnar den först i den nya kolumnen för att sedan granskas av en kollega innan den blir färdig.
+
+Kodgranskning ska vara något enkelt och kan fungera så här:
+
+* Den som skrivit koden visar ändringarna inkl. commit messages osv för en kollega som sitter bredvid.
+* Uppgiften för kollegan är då att ställa frågor så fort något är oklart eller verkar märkligt.
+* I bästa fall hittar kollegan (eller den som skrivit koden) fel i koden som antingen lagas direkt eller om det är ett större fel flyttas ditt *item* tillbaka från *testing* till *doing*.
+
+Uppgiften är att hitta fel. Ju tidigare ett fel hittas desto enklare / billigare är det att laga.
+
+Ni får eventuellt en enkel struktur för DoD på köpet? Dessutom får fler chansen att se all kod.
 
 # Uppgifter 1 - Agila metoder
 
@@ -97,6 +115,7 @@ Förklara följande med dina egna ord. Skriv ner det i ett dokument. Nästa gån
 * Om vi är överens om att vara agil handlar om att ha en flexibel arbetsprocess - vad betyder det i verkligheten? Hur påverkar det era projekt? Hur påverkar de ert tillvägagångssätt? Se: https://www.youtube.com/watch?v=J9UjD_cKpnc Han säger typ: *“Change our mindset from: A leads to be B leads to C leads to Done* to *A-B-C-learn-repeat."* Vad säger han egentligen i videon? Diskutera.
 * Skulle ni helst vilja arbeta mer som Scrum el. Kanban i nästa projekt? Motivera.
 * Hur skulle ert arbete se ut om vi skulle tvinga er att arbeta strikt enl. Vattenfallsmodellen i nästa projekt? Hur skulle arbetsdagarna, från start till slut, se ut? Vad tror ni skulle vara lättare / svårare i en sån modell? Förklara, reflektera och motivera.
+* Hur kan ni använda *code review* i era projekt?
 * Vilka nya kunskaper om agile har ni fått idag?
 
 # Mål för nästa projekt
@@ -104,3 +123,4 @@ Förklara följande med dina egna ord. Skriv ner det i ett dokument. Nästa gån
  * Skriva *product backlog items*
  * Arbeta aktivt med någon form av *Sprint backlog* eller *Kanban-board* för att samarbeta med planering i projektgruppen
  * Börja ta steg mot att identifiera och bryta ner för stora uppgifter till lagom stora och hanterbara delar
+ * Arbeta aktivt med *code review*.
