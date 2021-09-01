@@ -58,11 +58,11 @@ När sprinten är slut har utvecklare, *SM* och *PO* ett möte med en demo och u
 ![Scrum](img/scrum.png)
 
 ### Definition of Done (DoD)
-För att kunna veta när något räknas som färdigt och för att kunna göra en tidsuppskattning måste alla inblandade komma överens om vad som räknas som färdigt för alla förändringar i mjukvaran.
+För att kunna veta när något räknas som färdigt (och för att kunna göra en tidsuppskattnin) måste alla inblandade komma överens om vad som räknas som färdigt. Detta gäller normalt för alla förändringar i mjukvaran.
 
-Exakta kriterierna skiljer sig nog alltid mellan olika produkter och företag. Det viktigaste är att alla förstår va det innebär.
+Exakta kriterierna skiljer sig nog alltid mellan olika produkter och företag. Det viktigaste är att alla förstår vad de innebär.
 
-Om man tex arbetat på en sprint item och säger att den är klar kanske klar kan betyda att alla tester ska vara körda och fungera eller att förändringen måste godkännas (peer review / code review) av en kollega.
+Om man tex arbetat på en sprint item och säger att den är klar kanske klar kan betyda att alla tester ska vara körda och fungera eller att förändringen måste godkännas av en kollega (sk. peer review / code review).
 
 ### Velocity, poäng, tidsuppskattning / planning poker
 TBD
