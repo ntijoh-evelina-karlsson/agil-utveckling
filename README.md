@@ -111,12 +111,12 @@ Förklara följande med dina egna ord. Skriv ner det i ett dokument. Nästa gån
 * Se en kort repetition: https://www.youtube.com/watch?v=1iccpf2eN1Q 
 * Varför behövs både en *Product Backlog* och *Sprint Backlog*?
 * Ibland kan man höra någon säga: "produktägaren lägger sig inte i under sprinten". De är inte nödvändigtvis 100% sant men ambitionen är sann. Varför tror ni det är så upplägget är?
-* Kan ni fundera ut några exempel på när en feature kan räknas som färdig (DoD)?
-* Om vi är överens om att vara agil handlar om att ha en flexibel arbetsprocess - vad betyder det i verkligheten? Hur påverkar det era projekt? Hur påverkar de ert tillvägagångssätt? Se: https://www.youtube.com/watch?v=J9UjD_cKpnc Han säger typ: *“Change our mindset from: A leads to be B leads to C leads to Done* to *A-B-C-learn-repeat."* Vad säger han egentligen i videon? Diskutera.
+* När kan en feature räknas som färdig (DoD)? Fundera ut några konkreta exempel.
 * Skulle ni helst vilja arbeta mer som Scrum el. Kanban i nästa projekt? Motivera.
+* * Om vi är överens om att vara agil handlar om att ha en flexibel arbetsprocess - vad betyder det i verkligheten? Hur påverkar det era projekt? Hur påverkar de ert tillvägagångssätt? Se: https://www.youtube.com/watch?v=J9UjD_cKpnc Han säger typ: *“Change our mindset from: A leads to be B leads to C leads to Done* to *A-B-C-learn-repeat."* Vad säger han egentligen i videon? Diskutera.
 * Hur skulle ert arbete se ut om vi skulle tvinga er att arbeta strikt enl. Vattenfallsmodellen i nästa projekt? Hur skulle arbetsdagarna, från start till slut, se ut? Vad tror ni skulle vara lättare / svårare i en sån modell? Förklara, reflektera och motivera.
 * Hur kan ni använda *code review* i era projekt?
-* Vilka nya kunskaper om agile har ni fått idag?
+* Andra funderingar om Agile? Vilka nya kunskaper om agile har ni fått nu?
 
 # Mål för nästa projekt
  * Börja förstå vad det innebär att arbeta agilt eller att vara agil
