@@ -68,6 +68,8 @@ Exakta kriterierna skiljer sig nog alltid mellan olika produkter och företag. D
 
 Om man tex arbetat på en sprint item och säger att den är klar kanske klar kan betyda att alla tester ska vara körda och fungera eller att förändringen måste godkännas av en kollega (sk. peer review / code review).
 
+![DoD](img/geek-poke_scrum-wall-table.jpg)
+
 ### Velocity (tidsuppskattning)
 I nästan alla projekt behövs någon form av tidsupskattning. I Scrum-språk översätter vi det till mängden *backlog items* teamet klarar att göra färdigt under en *sprint*. 
 
@@ -87,7 +89,7 @@ För att få reda på hur stor en *item* är används ofta *story points* istäl
 
 
 
-![Scrum](img/planning-poker.jpg)
+![Planning poker](img/planning-poker.jpg)
 
 
 
@@ -150,9 +152,5 @@ Förklara följande med dina egna ord. Skriv ner det i ett dokument. Nästa gån
 * Hur kan ni använda *code review* i era projekt?
 * Andra funderingar om Agile? Vilka nya kunskaper om agile har ni fått nu?
 
-# Mål för nästa projekt
- * Börja förstå vad det innebär att arbeta agilt eller att vara agil
- * Skriva *product backlog items*
- * Arbeta aktivt med någon form av *Sprint backlog* eller *Kanban-board* för att samarbeta med planering i projektgruppen
- * Börja ta steg mot att identifiera och bryta ner för stora uppgifter till lagom stora och hanterbara delar
- * Arbeta aktivt med *code review*.
+# Uppgifter 3 - Velocity
+ * 
