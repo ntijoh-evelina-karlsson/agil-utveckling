@@ -85,15 +85,23 @@ För att få reda på hur stor en *item* är används ofta *story points* istäl
 **☕️** = jag är trött - ge mig kaffe!
 **?** = ingen aning 
 
+
+
+![Scrum](img/planning-poker.jpg)
+
+
+
 Olika team använder olika skalor som t.ex. t-shirt-storlek (XS-XL).
 
-Förutom att det är ett fullgott sätt att estimera är dessutom planning poker ett team-building-event som förtydligar processen och svårigheten i att sätta rätt poäng på en uppgift.
+Förutom ett sätt att estimera är dessutom planning poker ett team-building-event som förtydligar processen och svårigheten i att sätta rätt poäng på en uppgift.
 
 #### Velocity
 
-Efter varje sprint räknar man ihop hur många items som uppfyller DoD (dvs blev 100%) under sprinten. Summan av poängen är teamets velocity för nästa sprint. Efter den sprinten räknar man summan av färdiga items och sätter en ny velocity. Vill man kan man sedan göra medelvärde på velocity över tid i ett *velocity chart*.
+Efter varje sprint räknar man ihop hur många *items* som uppfyller *DoD* (dvs blev 100%) under sprinten. Summan av poängen är teamets *velocity* för nästa sprint. Itterativt justerar man teamets velocity efter varje sprint. Vill man kan man sedan göra medelvärde på velocity över tid i ett *velocity chart*.
 
-Sätter teamet poäng på alla backlog items kan man isåfall räkna ut från velocity hur många sprintar som är kvar. Behövs det kan sedan en projektledare göra en grov beräkning på när arbetet kan vara färdigt.
+Sätter teamet poäng på alla backlog items kan man isåfall räkna ut från velocity hur många sprintar som är kvar i en *burn down chart*. Behövs det kan även en projektledare utifrån de göra en grov beräkning på när arbetet kan vara färdigt.
+
+Idén är att man istället för att gissa frammåt använder sig av riktig erfarenhet från tidigare sprintar för att göra en uppskattning.
 
 ## Code review / kodgranskning 
 
