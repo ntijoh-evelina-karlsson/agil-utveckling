@@ -75,9 +75,9 @@ Inför varje sprint samlas *PO* och *scrum teamet* i ett *sprint planning meetin
 
 #### Story point
 
-För att få reda på hur stor en *item* är används ofta *story points* istället för timmar, dagar eller veckor. Det är ett relativt mått där fokus ligger mer i att förstå komplexiteten för en issue än att sätta ett exakt datum den  är färdig. Det finns många saker som måste göras på ett arbete förutom just att producera kod. Allt ifrån att svara på mail till möten eller teambuilding.
+För att få reda på hur stor en *item* är används ofta *story points* istället för timmar, dagar eller veckor. Det är ett relativt mått där fokus ligger mer i att förstå komplexiteten för en issue än att sätta ett exakt datum den är färdig. Det finns många saker som måste göras på ett arbete förutom just att producera kod (svara på mail, möten, teambuilding, etc.) så exakta datum är väldigt svåra att hålla.
 
-Planning poker är en metod för att gissa storlek på de items som ska göras. En item i taget läggs fram, varje medlem i teamet får sedan gissa hur stor denna uppgiften än. För planning poker använder man en kortlek med olika poäng som t.ex:
+*Planning poker* är en metod för att gissa storlek på de items som ska göras. En item i taget läggs fram, varje medlem i teamet får sedan gissa hur stor denna uppgiften än. För planning poker använder man en kortlek med olika poäng som t.ex:
 
 **0** = redan färdig
 **1/2, 1, 2, 3, 5, 8, 13** = vanliga poäng
