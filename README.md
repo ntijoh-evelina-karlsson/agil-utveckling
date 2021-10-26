@@ -68,8 +68,32 @@ Exakta kriterierna skiljer sig nog alltid mellan olika produkter och företag. D
 
 Om man tex arbetat på en sprint item och säger att den är klar kanske klar kan betyda att alla tester ska vara körda och fungera eller att förändringen måste godkännas av en kollega (sk. peer review / code review).
 
-### Velocity, poäng, tidsuppskattning / planning poker
-TBD, till p2
+### Velocity (tidsuppskattning)
+I nästan alla projekt behövs någon form av tidsupskattning. I Scrum-språk översätter vi det till mängden *backlog items* teamet klarar att göra färdigt under en *sprint*. 
+
+Inför varje sprint samlas *PO* och *scrum teamet* i ett *sprint planning meeting* där de väljer ut och estimerar rätt mängd *items* från *product backlog*. *PO* ansvarar för att prioritera och *teamet* för att ta på sig lagom mycket arbete.
+
+#### Story point
+
+För att få reda på hur stor en *item* är används ofta *story points* istället för timmar, dagar eller veckor. Det är ett relativt mått där fokus ligger mer i att förstå komplexiteten för en issue än att sätta ett exakt datum den  är färdig. Det finns många saker som måste göras på ett arbete förutom just att producera kod. Allt ifrån att svara på mail till möten eller teambuilding.
+
+Planning poker är en metod för att gissa storlek på de items som ska göras. En item i taget läggs fram, varje medlem i teamet får sedan gissa hur stor denna uppgiften än. För planning poker använder man en kortlek med olika poäng som t.ex:
+
+**0** = redan färdig
+**1/2, 1, 2, 3, 5, 8, 13** = vanliga poäng
+**20, 40, 100** = någonstans på skalan blir en item för stor för att estimetas (t.ex. vid 20) då betyder poänget att den måste brytas ner i flera items
+**☕️** = jag är trött - ge mig kaffe!
+**?** = ingen aning 
+
+Olika team använder olika skalor som t.ex. t-shirt-storlek (XS-XL).
+
+Förutom att det är ett fullgott sätt att estimera är dessutom planning poker ett team-building-event som förtydligar processen och svårigheten i att sätta rätt poäng på en uppgift.
+
+#### Velocity
+
+Efter varje sprint räknar man ihop hur många items som uppfyller DoD (dvs blev 100%) under sprinten. Summan av poängen är teamets velocity för nästa sprint. Efter den sprinten räknar man summan av färdiga items och sätter en ny velocity. Vill man kan man sedan göra medelvärde på velocity över tid i ett *velocity chart*.
+
+Sätter teamet poäng på alla backlog items kan man isåfall räkna ut från velocity hur många sprintar som är kvar. Behövs det kan sedan en projektledare göra en grov beräkning på när arbetet kan vara färdigt.
 
 ## Code review / kodgranskning 
 
